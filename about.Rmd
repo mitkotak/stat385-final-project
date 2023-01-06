@@ -1,0 +1,16 @@
+## Author
+
+-   **Name** Mit Kotak
+-   **Email** [mitak2\@illinois.edu](mailto:mitak2@illinois.edu)
+
+## Purpose
+
+The purpose of the application is to match flight origin/destination with total delay times grouped by days. Around holiday time (For e.g Christmas), people who might have a bit of a flexibility on when they can fly can minimize their flight delay using this interactive visualization.
+
+## Data
+
+The data is the NYC Flight dataset for the year 2013 where we are using columns origin, dest, arr_delay and dep_delay
+
+## References
+
+NYC Flight Dataset Description (<https://www.rdocumentation.org/packages/nycflights13/versions/1.0.1>)
